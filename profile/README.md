@@ -12,8 +12,8 @@ With an emphasis on quality and maintainability, the projects we create are desi
 
 To explore our work, check out some of our highlighted repositories:
 
+- [CarrNexa Frontend](https://github.com/carrnexa/carrnexa-frontend): The frontend code for our official website, showcasing our projects, blog posts, and contact information.
 - [.github](https://github.com/carrnexa/.github): Organization-wide GitHub configuration, including issue templates, workflows, and community standards.
-- [carrnexa.github.io](https://github.com/carrnexa/carrnexa.github.io): Our official website, showcasing our projects, blog posts, and contact information.
 
 ## Follow & Support
 
