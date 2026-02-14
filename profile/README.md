@@ -1,22 +1,29 @@
 # CarrNexa
 
-Modular tools for curious minds. Built with clarity, shared with purpose.
+**Modular Tools for Curious Minds.**
 
-## About Us
+CarrNexa is a systems engineering studio focused on **pragmatic software craftsmanship**. We reject modern bloat in favor of architectural clarity, type safety, and raw performance.
 
-CarrNexa is a small studio that builds high-performance software, for everything from one-off scripts and tools to full-fledged applications. Guided by pragmatic engineering and a deep respect for craftsmanship, we publish what we use, share what can help others, and enjoy pushing technical boundaries.
+## Operating Principles
 
-With an emphasis on quality and maintainability, the projects we create are designed to be reliable, performant, and adaptable. To us, software is a craft; and every line of code provides an opportunity to learn, refine, and create something meaningful together.
+1. **Density > Abstraction**: We prefer raw HTML/CSS/JS over heavy frameworks. We treat code as a liability, not an asset.
+2. **Glass Box Engineering**: Our public code is transparent; our secrets are dark. We build in the open to foster trust and enforce security through transparency, not obscurity.
+3. **Systems Thinking**: Every project, from a shell script to a distributed backend, is treated as a component of a larger machine.
 
-## Featured Repositories
+## The Technology Stack
 
-To explore our work, check out some of our highlighted repositories:
+We build high-throughput systems using strict, performant tooling.
 
-- [CarrNexa Frontend](https://github.com/carrnexa/carrnexa-frontend): The frontend code for our official website, showcasing our projects, blog posts, and contact information.
-- [.github](https://github.com/carrnexa/.github): Organization-wide GitHub configuration, including issue templates, workflows, and community standards.
+- **Core**: Python 3.12+ (Async), Rust, TypeScript (Strict).
+- **Infrastructure**: Arch Linux, Docker, Unix Domain Sockets.
+- **Frontend**: Vite (MPA), Vanilla JS, CSS Variables.
 
-## Follow & Support
+## Public Repositories
 
-- **Website:** [carrnexa.com](https://carrnexa.com)
-- **GitHub:** [github.com/carrnexa](https://github.com/carrnexa)
-- **Email:** [hello@carrnexa.com](mailto:hello@carrnexa.com)
+- **[carrnexa-frontend](https://github.com/carrnexa/carrnexa-frontend)**: Density over abstraction. Zero-runtime static architecture built on Vite MPA for sub-100ms latency.
+- **[.github](https://github.com/carrnexa/.github)**: The organizational constitution. Defines the philosophy and operating principles for the ecosystem.
+
+## Connect
+
+- **Website**: [carrnexa.com](https://carrnexa.com)
+- **Contact**: [hello@carrnexa.com](mailto:hello@carrnexa.com)
