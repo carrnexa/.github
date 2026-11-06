@@ -20,7 +20,7 @@ We build high-throughput systems using strict, performant tooling.
 
 ## Public Repositories
 
-- **[carrnexa-frontend](https://github.com/carrnexa/carrnexa-frontend)**: Density over abstraction. Zero-runtime static architecture built on Vite MPA for sub-100ms latency.
+- **[www-ui](https://github.com/carrnexa/www-ui)**: Density over abstraction. Zero-runtime static architecture built on Vite MPA for sub-100ms latency.
 - **[.github](https://github.com/carrnexa/.github)**: The organizational constitution. Defines the philosophy and operating principles for the ecosystem.
 
 ## Connect
