@@ -2,7 +2,7 @@
 
 **Software that keeps its word.**
 
-When was the last time you used software that kept its word? If it's been a while, start here.
+When was the last time you used software that actually kept its word? If it's been a while, start here.
 
 ## Repositories
 
